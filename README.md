@@ -10,8 +10,8 @@ Use the [Tableau Website](https://www.tableau.com) to install Tableau Desktop or
 
 
 ## Key Features
-Sales Dashboard
-
+## Sales Dashboard
+![Sales Dashboard](Images/Sales_Dashboard.png)
 Total Sales and Profit Overview:
 Displays total sales, profit, and quantity sold for the year, with year-over-year comparisons.
 Highlights the highest and lowest performing months using distinct markers for quick visual recognition.
@@ -24,8 +24,10 @@ Line charts illustrate sales and profit trends over time, providing insights int
 
 Dynamic Filtering:
 Allows users to filter data by year, category, sub-category, region, state, and city to drill down into specific sales segments.
+![Filters_Menu](Images/Filters.png)
 
 ## Customer Dashboard
+![Sales Dashboard](Images/Customer_Dashboard.png)
 Customer Metrics:
 Provides key customer metrics, such as total number of customers, sales per customer, and total orders.
 Year-over-year performance indicators show growth or decline in customer engagement.
