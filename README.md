@@ -38,6 +38,9 @@ Visual representation of customer distribution based on the number of orders, of
 Lists top 10 customers by profit, detailing their last order date, total profit contribution, and sales, allowing for targeted marketing and sales strategies.
 ![Customer_Distribution](Images/Customer_Distribution.png)
 
+
+![Customer_Standings](Images/Customer_Standings.png)
+
 Order Trends and Analysis:
 Line charts display order trends over time, highlighting peaks and dips to help identify patterns in customer ordering behaviour.
 ![Sales Dashboard](Images/Weekly_Sales_Trends.png)
