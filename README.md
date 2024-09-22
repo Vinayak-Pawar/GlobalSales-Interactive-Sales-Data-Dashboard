@@ -11,7 +11,7 @@ Use the [Tableau Website](https://www.tableau.com) to install Tableau Desktop or
 
 ## Key Features
 Sales Dashboard
-
+![Sales Dashboard](images/Sales_Dashboard.png)
 Total Sales and Profit Overview:
 Displays total sales, profit, and quantity sold for the year, with year-over-year comparisons.
 Highlights the highest and lowest performing months using distinct markers for quick visual recognition.
