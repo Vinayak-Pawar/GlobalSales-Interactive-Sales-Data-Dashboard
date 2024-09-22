@@ -50,6 +50,7 @@ Line charts display order trends over time, highlighting peaks and dips to help 
 Tools Used: Tableau Desktop Public Edition
 
 Data Source: Sales and customer data from [DataSet](https://github.com/Vinayak-Pawar/Tableau_Complete_Sales_Dashboard/tree/main/DataSet)
+
 Visual Elements:
 Line and bar charts for trend and distribution analysis
 KPIs and performance metrics for quick overview
