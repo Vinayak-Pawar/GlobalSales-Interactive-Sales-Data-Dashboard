@@ -24,6 +24,7 @@ Line charts illustrate sales and profit trends over time, providing insights int
 
 Dynamic Filtering:
 Allows users to filter data by year, category, sub-category, region, state, and city to drill down into specific sales segments.
+![Filters_Menu](Images/Filters.png)
 
 ## Customer Dashboard
 ![Sales Dashboard](Images/Customer_Dashboard.png)
