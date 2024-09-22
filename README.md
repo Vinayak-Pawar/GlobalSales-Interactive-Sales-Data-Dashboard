@@ -18,6 +18,7 @@ Highlights the highest and lowest performing months using distinct markers for q
 
 Sales and Profit by Subcategory:
 Bar charts present a breakdown of sales and profit across different product subcategories, enabling users to identify top-performing and underperforming categories.
+![Sales_SubCtegory](Images/Sales_Subcategory_Comparison.png)
 
 Trends Over Time:
 Line charts illustrate sales and profit trends over time, providing insights into seasonal variations and growth patterns.
@@ -35,9 +36,14 @@ Year-over-year performance indicators show growth or decline in customer engagem
 Customer Distribution and Top Customers:
 Visual representation of customer distribution based on the number of orders, offering insights into customer purchasing patterns.
 Lists top 10 customers by profit, detailing their last order date, total profit contribution, and sales, allowing for targeted marketing and sales strategies.
+![Customer_Distribution](Images/Customer_Distribution.png)
+
+
+![Customer_Standings](Images/Customer_Standings.png)
 
 Order Trends and Analysis:
 Line charts display order trends over time, highlighting peaks and dips to help identify patterns in customer ordering behaviour.
+![Sales Dashboard](Images/Weekly_Sales_Trends.png)
 
 ## Technical Specifications
 
